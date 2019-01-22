@@ -23,4 +23,4 @@
 hs_err_pid*
 
 #database URI
-src/main/java/Util/DatabseURI.java
+src/main/Util/DatabseURI.java
